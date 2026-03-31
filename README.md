@@ -23,6 +23,8 @@ Overall Churn Rate--
 
 The dataset shows that 26.5% of customers have churned, while 73.5% are retained, meaning 1 out of every 4 customers leaves the service.
 
+![image](https://github.com/SagarSh2890/Telco-Churn-Analysis/blob/main/Screenshot%20(259).png)
+
 
 
 Customer Tenure Impact -- 
