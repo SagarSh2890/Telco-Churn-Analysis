@@ -44,10 +44,14 @@ Customers using electronic check have the highest churn (~45%), while credit car
 
 
 Key Recommendations--
-Improve onboarding experience for new customers (0–12 months)
-Promote long-term contracts to reduce churn by up to 40%
-Bundle value-added services like tech support and security
-Encourage customers to switch from electronic checks to more reliable payment methods
+1.Improve onboarding experience for new customers (0–12 months)
+
+2.Promote long-term contracts to reduce churn by up to 40%
+
+3.Bundle value-added services like tech support and security
+
+4.Encourage customers to switch from electronic checks to more reliable payment methods
+
 
 Conclusion--
 
