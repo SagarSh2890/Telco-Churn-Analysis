@@ -34,6 +34,7 @@ Without services (Tech Support, Online Security) → 35–45% churn
 With services → 15–20% churn
 Providing additional services clearly reduces churn risk.
 
+![chart](https://github.com/SagarSh2890/Telco-Churn-Analysis/blob/main/Screenshot%20(249).png)
 
 
 Payment Method Trends--
