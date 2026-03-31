@@ -45,6 +45,8 @@ Contract Type Influence --
   
 * Long-term contracts significantly improve customer retention.
 
+  ![image](https://github.com/SagarSh2890/Telco-Churn-Analysis/blob/main/Screenshot%20(261).png)
+
 
 
 Internet Service Insights--
