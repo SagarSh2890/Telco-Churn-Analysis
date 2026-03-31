@@ -36,6 +36,8 @@ Payment Method Trends
 
 Customers using electronic check have the highest churn (~45%), while credit card and bank transfer users show lower churn (~15–20%).
 
+![chart](https://github.com/SagarSh2890/Telco-Churn-Analysis/blob/main/Screenshot%20(249).png)
+
 Key Recommendations--
 Improve onboarding experience for new customers (0–12 months)
 Promote long-term contracts to reduce churn by up to 40%
