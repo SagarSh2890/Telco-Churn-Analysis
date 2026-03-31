@@ -16,6 +16,10 @@ The dataset shows that 26.5% of customers have churned, while 73.5% are retained
 Customer Tenure Impact -- 
 Customers with tenure less than 12 months show the highest churn, with rates above 40%, whereas customers staying beyond 24 months have churn rates below 15%. This indicates that early-stage customers are at highest risk.
 
+![image alt](<img width="852" height="690" alt="Screenshot (253)" src="https://github.com/user-attachments/assets/fd907f01-100d-4614-bcb9-44dab1b11bd5" />)
+
+
+
 Contract Type Influence --
 Month-to-month contracts → ~42–45% churn
 1-year contracts → ~10–12% churn
